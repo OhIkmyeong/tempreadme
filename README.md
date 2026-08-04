@@ -1,2 +1,1 @@
-# tempreadme
-readme 공유
+# 수정사항 전달 모음 (md 뷰어)
