@@ -1,1 +1,2 @@
 # 수정사항 전달 모음 (md 뷰어)
+- https://github.com/OhIkmyeong/tempreadme
