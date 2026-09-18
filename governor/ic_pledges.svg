@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 96 480">
+  <!-- Generator: Adobe Illustrator 30.8.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #16a57a;
+      }
+
+      .st1, .st2, .st3, .st4, .st5 {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .st1, .st2, .st5 {
+        stroke: #16a57a;
+      }
+
+      .st1, .st3, .st4, .st5 {
+        stroke-linejoin: round;
+      }
+
+      .st2 {
+        stroke-miterlimit: 10;
+      }
+
+      .st3 {
+        stroke: #36548e;
+      }
+
+      .st4 {
+        stroke: #fff;
+      }
+
+      .st6 {
+        fill: #eb00d9;
+        opacity: 0;
+      }
+
+      .st7 {
+        display: none;
+      }
+
+      .st5 {
+        stroke-dasharray: 3 3;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1" data-name="레이어_1" class="st7">
+    <g>
+      <rect class="st6" width="96" height="96"/>
+      <rect class="st6" x="10" y="10" width="76" height="76"/>
+    </g>
+    <g>
+      <rect class="st6" y="96" width="96" height="96"/>
+      <rect class="st6" x="10" y="106" width="76" height="76"/>
+    </g>
+    <g>
+      <rect class="st6" y="192" width="96" height="96"/>
+      <rect class="st6" x="10" y="202" width="76" height="76"/>
+    </g>
+    <g>
+      <rect class="st6" y="288" width="96" height="96"/>
+      <rect class="st6" x="10" y="298" width="76" height="76"/>
+    </g>
+    <g>
+      <rect class="st6" y="384" width="96" height="96"/>
+      <rect class="st6" x="10" y="394" width="76" height="76"/>
+    </g>
+  </g>
+  <g id="_레이어_2" data-name="레이어_2">
+    <g>
+      <line class="st3" x1="48.7" y1="66" x2="48.7" y2="61"/>
+      <polyline class="st3" points="61.4 66 22.7 66 22.7 30 27.7 30"/>
+      <polyline class="st3" points="69.7 30 74.7 30 74.7 59"/>
+      <rect class="st0" x="65.9" y="48.7" width="7.2" height="28.8" transform="translate(-21.9 41.9) rotate(-29.2)"/>
+      <line class="st4" x1="69.3" y1="70.6" x2="75.6" y2="67.1"/>
+      <path class="st1" d="M27.7,28h15.7c2.9,0,5.3,2.4,5.3,5.3v27.7h-21V28h0Z"/>
+      <path class="st1" d="M69.7,57v-29h-15.7c-2.9,0-5.3,2.4-5.3,5.3v27.7h15"/>
+      <line class="st1" x1="31.7" y1="35" x2="44.7" y2="35"/>
+      <line class="st5" x1="31.7" y1="42" x2="42.7" y2="42"/>
+      <line class="st1" x1="31.7" y1="49" x2="35.7" y2="49"/>
+      <rect class="st3" x="64.5" y="45.5" width="7.2" height="31.3" transform="translate(-21.1 40.9) rotate(-29.2)"/>
+      <polyline class="st3" points="57.4 49.2 55.6 39.2 63.7 45.7"/>
+    </g>
+    <g>
+      <g>
+        <path class="st2" d="M24.4,118.4h38.5c2.5,0,4.5,2,4.5,4.5v6.5"/>
+        <path class="st2" d="M28.4,126.4h-9v-3.5c0-2.5,2-4.5,4.5-4.5s4.5,2,4.5,4.5v3.5Z"/>
+        <line class="st2" x1="63.4" y1="169.4" x2="33.4" y2="169.4"/>
+        <path class="st2" d="M28.4,126.4v38.5c0,2.5,2,4.5,4.5,4.5s4.5-2,4.5-4.5v-3.5h23"/>
+      </g>
+      <g>
+        <circle class="st0" cx="54.4" cy="140.4" r="11" transform="translate(-17.2 7.9) rotate(-7.2)"/>
+        <circle class="st3" cx="58.4" cy="141.4" r="11" transform="translate(-17.3 8.5) rotate(-7.2)"/>
+        <circle class="st3" cx="57.9" cy="140.9" r="15.5" transform="translate(-17.1 8.3) rotate(-7.1)"/>
+        <path class="st0" d="M63.4,162.8l5.7,10.9c.9,1.8,3.1,2.4,4.8,1.4,1.7-1,2.3-3.2,1.2-4.9l-6.6-10.4-5.1,3Z"/>
+        <path class="st3" d="M65.7,161.2l5.7,10.9c.9,1.8,3.1,2.4,4.8,1.4,1.7-1,2.3-3.2,1.2-4.9l-6.6-10.4-5.1,3Z"/>
+        <line class="st3" x1="69.9" y1="158.8" x2="67.5" y2="154.2"/>
+        <line class="st3" x1="64.3" y1="156" x2="66.7" y2="160.7"/>
+      </g>
+      <line class="st3" x1="34.4" y1="126.4" x2="41.4" y2="126.4"/>
+      <line class="st3" x1="34.4" y1="137.4" x2="37.4" y2="137.4"/>
+      <line class="st3" x1="34.4" y1="146.4" x2="37.4" y2="146.4"/>
+      <line class="st3" x1="34.4" y1="155.4" x2="41.4" y2="155.4"/>
+    </g>
+    <g>
+      <path class="st0" d="M39.5,257.5h-10.3c-3.2,1.5-5.4,4.8-5.4,8.6v3.4h13v-3.4c0-3.6,1-6.6,2.8-8.6Z"/>
+      <path class="st0" d="M63.5,257.5h10.8c3.2,1.5,5.4,4.8,5.4,8.6v3.4h-13v-3.4c0-3.6-1.4-6.6-3.2-8.6Z"/>
+      <path class="st0" d="M58.3,257.5h-12.2c-3.2,1.5-5.4,4.8-5.4,8.6v3.4h23v-3.4c0-3.8-2.2-7-5.4-8.6Z"/>
+      <path class="st3" d="M53.9,246.4c0,2.8-1.4,7.6-5.7,7.6s-5.7-4.8-5.7-7.6,2.5-5.1,5.7-5.1,5.7,2.3,5.7,5.1Z"/>
+      <path class="st3" d="M42.2,256.7c-3.2,1.5-5.4,4.7-5.4,8.4v3.4h23v-3.4c0-3.7-2.2-6.9-5.4-8.4"/>
+      <path class="st3" d="M36.9,246.4c0,2.8-1.4,7.6-5.7,7.6s-5.7-4.8-5.7-7.6,2.5-5.1,5.7-5.1,5.7,2.3,5.7,5.1Z"/>
+      <path class="st3" d="M25.1,256.7c-3.2,1.5-5.3,4.7-5.3,8.4v3.4h13"/>
+      <path class="st3" d="M59.6,246.4c0,2.8,1.4,7.6,5.7,7.6s5.7-4.8,5.7-7.6-2.5-5.1-5.7-5.1-5.7,2.3-5.7,5.1Z"/>
+      <path class="st3" d="M71.4,256.7c3.2,1.5,5.3,4.7,5.3,8.4v3.4h-13"/>
+      <polyline class="st2" points="42.7 239.5 42.7 224.5 37.2 224.5 48.2 210.5 60.2 224.5 54.7 224.5 54.7 239.5"/>
+      <path class="st5" d="M75.8,252c0-10.2-5.5-19.1-13.8-23.8"/>
+      <path class="st5" d="M33.8,228.6c-7.8,4.9-13,13.5-13,23.4"/>
+    </g>
+    <g>
+      <path class="st1" d="M65.7,321.5h6.9c1.2,0,2.1.9,2.1,2.1v30.9"/>
+      <path class="st1" d="M22.7,354.5v-30.9c0-1.2.9-2.1,2.1-2.1h6.9"/>
+      <polyline class="st1" points="37.7 322.5 40.7 325.5 45.7 320.5"/>
+      <line class="st1" x1="50.7" y1="323.5" x2="59.7" y2="323.5"/>
+      <path class="st0" d="M55.7,354.5v1h-11v-1h-22v3.1c0,1,.8,1.9,1.8,1.9h51.4c1,0,1.8-.8,1.8-1.9v-3.1h-22Z"/>
+      <path class="st3" d="M54.7,354.5v1h-12v-1h-23v3.1c0,1,.8,1.9,1.9,1.9h54.2c1,0,1.9-.8,1.9-1.9v-3.1h-23Z"/>
+      <polyline class="st3" points="65.7 351.5 65.7 312.5 31.7 312.5 31.7 351.5"/>
+      <rect class="st3" x="37.7" y="341.5" width="7" height="7"/>
+      <polyline class="st3" points="37.7 332.5 40.7 335.5 45.7 330.5"/>
+      <line class="st3" x1="50.7" y1="333.5" x2="59.7" y2="333.5"/>
+    </g>
+    <g>
+      <g>
+        <path class="st0" d="M51.7,441s-4-3-4-3l.9-1.2c.8-1-.1-2.7-.8-3.6-1.1-1.6-2.8-3.3-4.8-4.8-3.5-2.6-6.5-3.5-8-3.5s-1.3.2-1.7.7l-.9,1.2-4-3,11.9-16.1,4,3-.9,1.2c-.7,1,0,2.6.9,3.8,1.1,1.6,2.7,3.2,4.7,4.7,2,1.5,4.2,2.6,6,3.2.7.2,1.4.3,2,.3s1.4-.2,1.7-.7l.9-1.2,4,3-11.9,16.1h0Z"/>
+        <rect class="st3" x="32.9" y="404.2" width="5" height="20" transform="translate(254 60.6) rotate(36.6)"/>
+        <rect class="st3" x="52.2" y="418.5" width="5" height="20" transform="translate(266.3 51.9) rotate(36.6)"/>
+        <path class="st2" d="M44.1,426.8l-16.1,25.4c-1.5,2.3-4.6,2.9-6.8,1.2-2.2-1.6-2.6-4.8-.8-6.9l19.6-22.7"/>
+        <path class="st3" d="M57.7,420.2c-1.2,1.6-5.5.3-9.7-2.9-4.2-3.1-6.7-6.9-5.5-8.5"/>
+        <path class="st3" d="M47.6,433.8c1.2-1.6-1.3-5.3-5.5-8.5-4.2-3.1-8.6-4.4-9.7-2.9"/>
+      </g>
+      <polyline class="st3" points="33.6 451.4 33.6 459.4 72.6 459.4 72.6 409.4 49.6 409.4"/>
+      <circle class="st0" cx="62.6" cy="449.4" r="5"/>
+      <line class="st3" x1="45.6" y1="452.4" x2="53.6" y2="452.4"/>
+      <line class="st3" x1="40.6" y1="447.4" x2="53.6" y2="447.4"/>
+    </g>
+  </g>
+</svg>
